@@ -1,5 +1,5 @@
 jQuery(document).ready(function($){
-	
+	console.log("asdsd");
 	$calltraking=false; //false выключает подмену номеров на сайте, true включает
 	
 	if ($calltraking){
